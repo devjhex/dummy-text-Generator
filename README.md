@@ -7,3 +7,4 @@ A simple application that generates a specified number of random paragraphs of t
 The project uses HTML for markup and tailwind for styling, together with Javascript for the functionality of the project.
 
 ## What I learned
+I learned to use basic JavaScript functionality like the Math.random() method to help getting a random paragraph for the page.
